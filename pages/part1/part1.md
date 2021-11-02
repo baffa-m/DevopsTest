@@ -20,11 +20,7 @@ This part introduces containerization with Docker and relevant concepts such as 
 * Share your own containers publicly
 </div>
 
-<div class="section" markdown="1">
-  <div class="content" markdown="1">
-    {% include_relative section-1.md %}
-  </div>
-</div>
+
 
 <div class="section" markdown="1">
   <div class="content" markdown="1">
